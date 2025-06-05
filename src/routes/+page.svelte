@@ -1,2 +1,7 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<a class="button is-dark" href="/check?index=0">Check VIT12 Deficiency</a>
+
+<div class="card mt-3">
+	<div class="card-content">
+		<p>No any records</p>
+	</div>
+</div>
