@@ -37,6 +37,10 @@
 		]
 	},
 	"dependencies": {
-		"bulma": "^1.0.4"
+		"bulma": "^1.0.4",
+		"fabric": "^6.7.0",
+		"konva": "^9.3.20",
+		"perfect-freehand": "^1.2.2",
+		"svelte-konva": "^0.3.1"
 	}
 }
